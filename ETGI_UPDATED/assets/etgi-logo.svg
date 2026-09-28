@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 90" role="img" aria-labelledby="title desc">
+<title>Express Travel Group International</title><desc>ETGI logo</desc>
+<rect width="360" height="90" rx="18" fill="#0d1c2d"/>
+<rect x="12" y="12" width="66" height="66" rx="14" fill="#d7ad61"/>
+<text x="45" y="55" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="800" fill="#0d1c2d">ETGI</text>
+<text x="95" y="39" font-family="Arial, sans-serif" font-size="19" font-weight="800" fill="#ffffff">EXPRESS TRAVEL</text>
+<text x="95" y="62" font-family="Arial, sans-serif" font-size="14" letter-spacing="3" fill="#d7ad61">GROUP INTERNATIONAL</text>
+</svg>
